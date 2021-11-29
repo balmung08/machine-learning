@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from scipy.io import loadmat
 from sklearn.preprocessing import OneHotEncoder
-6
+
 #反向传播神经网络
 #读取数据集
 data = loadmat('usedata/ex4data1.mat')
